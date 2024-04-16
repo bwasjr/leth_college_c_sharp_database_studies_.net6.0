@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wasjr\\OneDrive - Lethbridge College\\Documents\\2024-Winter\\programming2\\c_sharp\\DatabaseStudiesNet6.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0501AAF0-12E2-4C3F-9FC4-C30A50D845B5}|DatabaseStudiesNet6.0\\DatabaseStudiesNet6.0.csproj|c:\\users\\wasjr\\onedrive - lethbridge college\\documents\\2024-winter\\programming2\\c_sharp\\databasestudiesnet6.0\\databasestudiesnet6.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0501AAF0-12E2-4C3F-9FC4-C30A50D845B5}|DatabaseStudiesNet6.0\\DatabaseStudiesNet6.0.csproj|solutionrelative:databasestudiesnet6.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0501AAF0-12E2-4C3F-9FC4-C30A50D845B5}|DatabaseStudiesNet6.0\\DatabaseStudiesNet6.0.csproj|c:\\users\\wasjr\\onedrive - lethbridge college\\documents\\2024-winter\\programming2\\c_sharp\\databasestudiesnet6.0\\databasestudiesnet6.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0501AAF0-12E2-4C3F-9FC4-C30A50D845B5}|DatabaseStudiesNet6.0\\DatabaseStudiesNet6.0.csproj|solutionrelative:databasestudiesnet6.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\wasjr\\OneDrive - Lethbridge College\\Documents\\2024-Winter\\programming2\\c_sharp\\DatabaseStudiesNet6.0\\DatabaseStudiesNet6.0\\Form1.cs",
+              "RelativeDocumentMoniker": "DatabaseStudiesNet6.0\\Form1.cs",
+              "ToolTip": "C:\\Users\\wasjr\\OneDrive - Lethbridge College\\Documents\\2024-Winter\\programming2\\c_sharp\\DatabaseStudiesNet6.0\\DatabaseStudiesNet6.0\\Form1.cs",
+              "RelativeToolTip": "DatabaseStudiesNet6.0\\Form1.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAhwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:55:28.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wasjr\\OneDrive - Lethbridge College\\Documents\\2024-Winter\\programming2\\c_sharp\\DatabaseStudiesNet6.0\\DatabaseStudiesNet6.0\\Form1.cs",
+              "RelativeDocumentMoniker": "DatabaseStudiesNet6.0\\Form1.cs",
+              "ToolTip": "C:\\Users\\wasjr\\OneDrive - Lethbridge College\\Documents\\2024-Winter\\programming2\\c_sharp\\DatabaseStudiesNet6.0\\DatabaseStudiesNet6.0\\Form1.cs [Design]",
+              "RelativeToolTip": "DatabaseStudiesNet6.0\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:53:46.271Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
